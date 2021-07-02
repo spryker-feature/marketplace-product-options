@@ -6,7 +6,11 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.3"
+        "php": ">=7.3",
+        "spryker/merchant-product-option": "^0.1.0",
+        "spryker/merchant-product-option-data-import": "^0.1.0",
+        "spryker/merchant-product-option-gui": "^0.1.0",
+        "spryker/merchant-product-option-storage": "^0.1.0"
     },
     "extra": {
         "branch-alias": {
