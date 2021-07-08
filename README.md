@@ -1,6 +1,6 @@
 # Spryker Feature: Marketplace Product Options
 
-
+Allows merchants to create their own product option groups and values.
 
 ## Installation
 
