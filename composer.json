@@ -8,16 +8,16 @@
     "require": {
         "php": ">=7.3",
         "spryker-shop/product-option-widget": "^1.4.0",
-        "spryker/merchant-product-option": "^0.1.1",
-        "spryker/merchant-product-option-data-import": "^0.1.0",
-        "spryker/merchant-product-option-gui": "^0.1.0",
-        "spryker/merchant-product-option-storage": "^0.1.0",
-        "spryker/product-option": "^8.10.0",
-        "spryker/product-option-storage": "^1.11.0"
+        "spryker/merchant-product-option": "^1.0.0",
+        "spryker/merchant-product-option-data-import": "^0.2.0",
+        "spryker/merchant-product-option-gui": "^1.0.0",
+        "spryker/merchant-product-option-storage": "^1.0.0",
+        "spryker/product-option": "^8.9.0",
+        "spryker/product-option-storage": "^1.9.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202107.x-dev"
+            "dev-master": "202108.x-dev"
         }
     },
     "suggest": {
