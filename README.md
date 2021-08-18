@@ -15,4 +15,4 @@ composer require spryker-feature/marketplace-product-options
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [ProductOptionMerchantPortalGui ^0.1.2](https://github.com/spryker/product-option-merchant-portal-gui) (MP GUI)
+- [ProductOptionMerchantPortalGui ^1.0.0](https://github.com/spryker/product-option-merchant-portal-gui) (MP GUI)
