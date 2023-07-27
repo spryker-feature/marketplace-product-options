@@ -2,6 +2,8 @@
 
 Allows merchants to create their own product option groups and values.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/product-information-management/202307.0/marketplace/marketplace-product-options-feature-overview.html)
+
 ## Installation
 
 ```
